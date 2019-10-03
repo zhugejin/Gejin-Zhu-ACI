@@ -1,0 +1,3 @@
+ofxAnimatable
+ofxFft-master
+ofxVectorGraphics
